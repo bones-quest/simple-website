@@ -25,7 +25,7 @@ ul.social {
   max-height: 13%;
 }
 
-/**
+/********************************************************
  * Links
  */
 a {
@@ -41,7 +41,7 @@ small {
   font-size: 75%;
 }
 
-/**
+/********************************************************
  * Headings
  */
 h1,
@@ -63,7 +63,7 @@ h4 { font-size: 1.8rem; line-height: 1.5;  letter-spacing: -.05rem; }
 h5 { font-size: 1.5rem; line-height: 1.6;  letter-spacing: 0; }
 h6 { font-size: 1.4rem; line-height: 1.6;  letter-spacing: 0; }
 
-/**
+/********************************************************
  * Paragraphs
  */
 p {
@@ -73,16 +73,16 @@ p + p {
   margin-left: 15px;
 }
 
-/**
+/********************************************************
  * Images
  */
 .icon {
-  max-width: 10%;
-  max-height: 10%;
+  max-width: 5%;
+  max-height: 5%;
 }
 
 
-/**
+/********************************************************
  * Quotes & Blockquotes
  */
 q {
@@ -106,7 +106,7 @@ blockquote p:last-child {
   margin-bottom: 0;  
 }
 
-/**
+/********************************************************
  * Layout styles
  */
 
@@ -126,7 +126,9 @@ header, #content, footer {
   color:#FFFFFF; 
 }
 
-/* Menu Links */
+/********************************************************
+
+Menu Links */
 ul.main-menu {
   margin: 0;
   padding: 0;
@@ -149,7 +151,9 @@ ul.main-menu li a.active {
   border-bottom-color:#EF6D3D;
 }
 
-/* Utility classes */
+/********************************************************
+
+Utility classes */
 .hide {
   display:none;
 }
@@ -157,7 +161,9 @@ ul.main-menu li a.active {
   display:block;
 }
 
-/* Manjari CSS Classes */
+/********************************************************
+
+Manjari CSS Classes */
 .manjari-thin {
   font-family: "Manjari", sans-serif;
   font-weight: 100;
@@ -177,7 +183,9 @@ ul.main-menu li a.active {
 }
 
 
-/* Class template for Comfortaa  
+/********************************************************
+
+Class template for Comfortaa  
 
 // <uniquifier>: Use a unique and descriptive class name
 // <weight>: Use a value from 300 to 700
@@ -191,7 +199,9 @@ ul.main-menu li a.active {
   */
 
 
-/* Class template for Quicksand
+/******************************************************** 
+
+Class template for Quicksand
  
 // <uniquifier>: Use a unique and descriptive class name
 // <weight>: Use a value from 300 to 700
