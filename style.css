@@ -20,11 +20,6 @@ ul {
   display:inline-block;
 }
 
-ul.social {
-  max-width: 13%;
-  max-height: 13%;
-}
-
 /********************************************************
  * Links
  */
@@ -77,8 +72,8 @@ p + p {
  * Images
  */
 .icon {
-  max-width: 5%;
-  max-height: 5%;
+  max-width: 100%;
+  height: auto;
 }
 
 
