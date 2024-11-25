@@ -16,6 +16,15 @@ body {
   color: #FFFFFF;
 }
 
+ul {
+  display:inline-block;
+}
+
+ul.social {
+  max-width: 13%;
+  max-height: 13%;
+}
+
 /**
  * Links
  */
@@ -68,7 +77,6 @@ p + p {
  * Images
  */
 .icon {
-  display:inline-block;
   max-width: 10%;
   max-height: 10%;
 }
