@@ -12,7 +12,7 @@ body {
   font-size: 1.5em; /* currently ems cause chrome bug misinterpreting rems on body element */
   line-height: 1.6;
   font-weight: 400;
-  font-family: ui-rounded, 'Hiragino Maru Gothic ProN', Quicksand, Comfortaa, Manjari, 'Arial Rounded MT', 'Arial Rounded MT Bold', Calibri, source-sans-pro, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+  font-family: ui-rounded, 'hiragino-kaku-gothic-pron', sans-serif, 'Quicksand', 'Comfortaa', 'Manjari', 'Arial Rounded MT', 'Arial Rounded MT Bold', 'Calibri', 'source-sans-pro', 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
   color: #FFFFFF;
 }
 
@@ -139,3 +139,49 @@ ul.main-menu li a.active {
   display:block;
 }
 
+/* Manjari CSS Classes */
+.manjari-thin {
+  font-family: "Manjari", sans-serif;
+  font-weight: 100;
+  font-style: normal;
+}
+
+.manjari-regular {
+  font-family: "Manjari", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.manjari-bold {
+  font-family: "Manjari", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+
+/* Class template for Comfortaa  
+
+// <uniquifier>: Use a unique and descriptive class name
+// <weight>: Use a value from 300 to 700
+
+.comfortaa-<uniquifier> {
+  font-family: "Comfortaa", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+  */
+
+
+/* Class template for Quicksand
+ 
+// <uniquifier>: Use a unique and descriptive class name
+// <weight>: Use a value from 300 to 700
+
+.quicksand-<uniquifier> {
+  font-family: "Quicksand", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+*/
