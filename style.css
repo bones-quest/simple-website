@@ -10,7 +10,7 @@ body {
   font-size: 1.5em; /* currently ems cause chrome bug misinterpreting rems on body element */
   line-height: 1.6;
   font-weight: 400;
-  font-family: "Roboto", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Chathura", sans-serif;
   color: #FFFFFF;
 }
 
@@ -138,4 +138,33 @@ ul.main-menu li a.active {
 }
 
 
+.chathura-thin {
+  font-family: "Chathura", sans-serif;
+  font-weight: 100;
+  font-style: normal;
+}
+
+.chathura-light {
+  font-family: "Chathura", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.chathura-regular {
+  font-family: "Chathura", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.chathura-bold {
+  font-family: "Chathura", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.chathura-extrabold {
+  font-family: "Chathura", sans-serif;
+  font-weight: 800;
+  font-style: normal;
+}
 
