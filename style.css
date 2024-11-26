@@ -16,8 +16,9 @@ body {
   color: #FFFFFF;
 }
 
-ul {
+ul.bones,li {
   display:inline-block;
+  list-style-type: none;
 }
 
 /********************************************************
