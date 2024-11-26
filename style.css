@@ -16,11 +16,6 @@ body {
   color: #FFFFFF;
 }
 
-li.bones {
-  display:inline-block;
-  list-style-type: none;
-}
-
 /********************************************************
  * Links
  */
@@ -67,7 +62,6 @@ p {
 }
 p + p {
   margin-left: 15px;
-  padding-right: 75px;
 }
 
 /********************************************************
