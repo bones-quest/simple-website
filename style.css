@@ -73,8 +73,8 @@ p + p {
  * Images
  */
 .icon {
-  max-width: 25%;
-  height: auto;
+  max-height: 50%;
+  width: auto;
 }
 
 
