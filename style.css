@@ -16,7 +16,7 @@ body {
   color: #FFFFFF;
 }
 
-ul.bones,li {
+li.bones {
   display:inline-block;
   list-style-type: none;
 }
