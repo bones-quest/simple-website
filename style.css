@@ -117,6 +117,10 @@ header, #content, footer {
   color:#FFFFFF; 
 }
 
+.w3-blue {
+  padding: 10px;
+}
+
 /********************************************************
 
 Menu Links */
@@ -147,7 +151,7 @@ ul.main-menu li a.active {
 Social Links */
 ul.social li {
   display: inline-block;
-
+  
 }
 
 /********************************************************
