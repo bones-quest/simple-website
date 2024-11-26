@@ -118,6 +118,7 @@ header, #content, footer {
 }
 
 .w3-container {
+  margin: auto;
   padding: 10px;
 }
 
