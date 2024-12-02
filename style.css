@@ -131,6 +131,7 @@ header, #content, footer {
 /* Add some padding inside the card container */
 .w3-container {
   padding: 2px 16px;
+  display: block;
 }
 
 /********************************************************
