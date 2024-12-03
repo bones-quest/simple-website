@@ -117,12 +117,17 @@ header, #content, footer {
   color:#FFFFFF; 
 }
 
+.w3-row {
+  background-color: transparent;
+  border: transparent;
+}
 .w3-card {
   /* Add shadows to create the "card" effect */
   display: inline-block;
   background-color: rgba(0, 0, 0, 0.71);
   box-shadow: 7px 10px 6px 3px rgba(94, 94, 94, 0.58);
   transition: 0.3s;
+  text-align: center;
 }
 
 /* On mouse-over, add a deeper shadow */
