@@ -135,6 +135,11 @@ header, #content, footer {
   box-shadow: 5px 5px 6px 3px rgba(0, 0, 0, 0.71);
 }
 
+.responsive {
+  max-width: 100%;
+  height: auto;
+}
+
 /********************************************************
 
 Menu Links */
