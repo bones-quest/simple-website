@@ -117,21 +117,21 @@ header, #content, footer {
   color:#FFFFFF; 
 }
 
-.w3-card-4 {
+.w3-card {
   /* Add shadows to create the "card" effect */
+  display: inline-block;
+  background-color: rgba(0, 0, 0, 0.71);
   box-shadow: 7px 10px 6px 3px rgba(94, 94, 94, 0.58);
   transition: 0.3s;
 }
 
 /* On mouse-over, add a deeper shadow */
-.w3-card-4:hover {
-  box-shadow: 0px 5px 6px 3px rgba(94, 94, 94, 0.71);
+.w3-card:hover {
+  box-shadow: 5px 5px 6px 3px rgba(0, 0, 0, 0.71);
 }
 
-/* Add some padding inside the card container */
-.w3-container {
-  padding: 2px 16px;
-  display: inline-block;
+.w3-gray {
+  text-align: center;
 }
 
 /********************************************************
